@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "name": "Luis",
+      "company": "Luis SA",
+      "email": "luis@mail.com",
+      "phone": "123456789",
+      "notes": "Notas de Luis",
+      "id": 3
+    },
+    {
+      "name": "Pepe",
+      "company": "Pepe SA",
+      "email": "pepe@mail.com",
+      "phone": "12355",
+      "notes": "",
+      "id": 4
+    },
+    {
+      "name": "Lola",
+      "company": "Lola SA",
+      "email": "lola@mail.com",
+      "phone": "123456789",
+      "notes": "Notas de Lola 1",
+      "id": 5
+    }
+  ]
+}
